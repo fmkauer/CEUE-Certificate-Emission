@@ -54,7 +54,7 @@ if __name__ == "__main__":
     template_docx_path = "input\Declaração de Créditos Complementares - Template.docx"  # sys.argv[1]
     horas_semanais = 4
     ano = 2024
-    diretor_academico = "Sara Vitória Vale Ferreira"
+    diretor_academico = "Tassiandra Moura"
     df = pl.read_csv("data/Certificado CEUE (Respostas) - Form Responses 1.csv")
     
     # Loop through each row in the dataframe
